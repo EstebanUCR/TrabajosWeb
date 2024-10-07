@@ -1,0 +1,40 @@
+.carrusel {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.carrusel img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.TextImage {
+    padding: 10px;
+    text-align: center;
+}
+
+.TextImage a {
+    font-weight: bold;
+    color: #0d6efd;
+    text-decoration: underline;
+}
+
+.custom-modal .modal-dialog {
+    max-width: 80%;
+}
+
+.custom-modal img{
+    width: 100%;
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
