@@ -1,0 +1,18 @@
+<rss version="2.0">
+  <channel>
+    <title>Ejemplo de Feed RSS</title>
+    <link>https://www.ejemplo.com/rss</link>
+    <description>Este es un ejemplo de un feed RSS.</description>
+    <item>
+      <title>Artículo 1</title>
+      <link>https://www.ejemplo.com/articulo1</link>
+      <description>Este es el primer artículo del feed.</description>
+    </item>
+    <item>
+      <title>Artículo 2</title>
+      <link>https://www.ejemplo.com/articulo2</link>
+      <description>Este es el segundo artículo del feed.</description>
+    </item>
+    <!-- Agrega más entradas según sea necesario -->
+  </channel>
+</rss>

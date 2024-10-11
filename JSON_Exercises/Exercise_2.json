@@ -1,0 +1,32 @@
+{
+    "inventario": {
+        "productos": {
+            "producto": [
+                {
+                    "nombre": "Televisor",
+                    "precio": "599.99",
+                    "fecha_ingreso": "2023-07-15",
+                    "stock": "10",
+                    "_codigo": "001",
+                    "_categoria": "Electrónicos"
+                },
+                {
+                    "nombre": "Camiseta",
+                    "precio": "29.99",
+                    "fecha_ingreso": "2023-07-16",
+                    "stock": "50",
+                    "_codigo": "002",
+                    "_categoria": "Ropa"
+                },
+                {
+                    "nombre": "Lámpara",
+                    "precio": "39.99",
+                    "fecha_ingreso": "2023-07-17",
+                    "stock": "20",
+                    "_codigo": "003",
+                    "_categoria": "Hogar"
+                }
+            ]
+        }
+    }
+}

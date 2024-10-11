@@ -1,0 +1,15 @@
+titulo {
+    background-color: lightblue;
+}
+
+autor {
+    color: red;
+}
+
+genero {
+    font-style: italic;
+}
+
+anio {
+    font-size: 16px;
+}

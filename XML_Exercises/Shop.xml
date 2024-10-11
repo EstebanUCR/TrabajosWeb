@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+  <producto codigo="P001">
+    <nombre>Camiseta de manga corta</nombre>
+    <descripcion>Camiseta de algodón para hombre, color negro</descripcion>
+    <precio>19.99</precio>
+    <categoria>Ropa</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://ejemplo.com/imagen1.jpg</imagen>
+  </producto>
+  <producto codigo="P002">
+    <nombre>Pantalón vaquero</nombre>
+    <descripcion>Pantalón vaquero para mujer, corte recto</descripcion>
+    <precio>39.99</precio>
+    <categoria>Ropa</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://ejemplo.com/imagen2.jpg</imagen>
+  </producto>
+  <producto codigo="P003">
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas unisex, color blanco</descripcion>
+    <precio>59.99</precio>
+    <categoria>Zapatos</categoria>
+    <disponibilidad>Agotado</disponibilidad>
+    <imagen>https://ejemplo.com/imagen3.jpg</imagen>
+  </producto>
+  <producto codigo="P004">
+    <nombre>Bolso de mano</nombre>
+    <descripcion>Bolso de mano para mujer, estilo elegante</descripcion>
+    <precio>29.99</precio>
+    <categoria>Accesorios</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://ejemplo.com/imagen4.jpg</imagen>
+  </producto>
+  <producto codigo="P005">
+    <nombre>Reloj de pulsera</nombre>
+    <descripcion>Reloj de pulsera unisex, correa de acero inoxidable</descripcion>
+    <precio>79.99</precio>
+    <categoria>Relojes</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://ejemplo.com/imagen5.jpg</imagen>
+  </producto>
+</tienda>

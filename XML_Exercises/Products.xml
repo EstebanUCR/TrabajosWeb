@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <producto>
+    <nombre>Smartphone XYZ</nombre>
+    <descripcion>Un smartphone avanzado con excelentes características</descripcion>
+    <precio>499.99</precio>
+    <caracteristicas>
+      <caracteristica nombre="Pantalla">5.5 pulgadas</caracteristica>
+      <caracteristica nombre="Procesador">Snapdragon 855</caracteristica>
+      <caracteristica nombre="Memoria RAM">6 GB</caracteristica>
+    </caracteristicas>
+  </producto>
+  <producto>
+    <nombre>Tablet ABC</nombre>
+    <descripcion>Una tablet versátil para el trabajo y el entretenimiento</descripcion>
+    <precio>299.99</precio>
+    <caracteristicas>
+      <caracteristica nombre="Pantalla">10.1 pulgadas</caracteristica>
+      <caracteristica nombre="Procesador">Intel Core i5</caracteristica>
+      <caracteristica nombre="Memoria interna">128 GB</caracteristica>
+      <caracteristica nombre="Sistema operativo">Android 10</caracteristica>
+    </caracteristicas>
+  </producto>
+</catalogo>

@@ -1,0 +1,23 @@
+<empleados>
+  <empleado numero="001">
+    <nombre>John</nombre>
+    <apellido>Doe</apellido>
+    <fecha_nacimiento>1985-05-20</fecha_nacimiento>
+    <puesto>Gerente de Proyectos</puesto>
+    <departamento>Desarrollo</departamento>
+  </empleado>
+  <empleado numero="002">
+    <nombre>Jane</nombre>
+    <apellido>Smith</apellido>
+    <fecha_nacimiento>1990-09-15</fecha_nacimiento>
+    <puesto>Analista de Datos</puesto>
+    <departamento>Análisis</departamento>
+  </empleado>
+  <empleado numero="003">
+    <nombre>Michael</nombre>
+    <apellido>Johnson</apellido>
+    <fecha_nacimiento>1988-12-10</fecha_nacimiento>
+    <puesto>Programador</puesto>
+    <departamento>Desarrollo</departamento>
+  </empleado>
+</empleados>

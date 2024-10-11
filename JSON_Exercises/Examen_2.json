@@ -1,0 +1,103 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        {
+          "name": "Ground beef",
+          "quantity": "500g"
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": "400g"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves"
+        },
+        {
+          "name": "Spaghetti",
+          "quantity": "300g"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": "To taste"
+        }
+      ],
+      "instructions": [
+        "Cook the spaghetti according to package instructions.",
+        "Heat olive oil in a pan and sauté chopped onion and minced garlic until golden brown.",
+        "Add ground beef and cook until browned.",
+        "Pour in tomato sauce and let it simmer for 15 minutes.",
+        "Season with salt and black pepper to taste.",
+        "Serve the Bolognese sauce over cooked spaghetti."
+      ]
+    },
+    {
+      "name": "Vegetarian Buddha Bowl",
+      "ingredients": [
+        {
+          "name": "Quinoa",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Chickpeas",
+          "quantity": "1 can, drained and rinsed"
+        },
+        {
+          "name": "Broccoli florets",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Carrots",
+          "quantity": "2, julienned"
+        },
+        {
+          "name": "Avocado",
+          "quantity": "1, sliced"
+        },
+        {
+          "name": "Cucumber",
+          "quantity": "1, sliced"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Hummus",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Tahini dressing",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": "1 tablespoon"
+        }
+      ],
+      "instructions": [
+        "Rinse quinoa and cook according to package instructions.",
+        "Roast chickpeas with a drizzle of olive oil and your favorite spices until crispy.",
+        "Steam broccoli florets and julienne carrots.",
+        "Assemble bowls with cooked quinoa, roasted chickpeas, steamed broccoli, julienned carrots, sliced avocado, cucumber, and cherry tomatoes.",
+        "Drizzle with hummus and tahini dressing.",
+        "Sprinkle sesame seeds on top for added crunch.",
+        "Enjoy your nutritious and delicious Vegetarian Buddha Bowl!"
+      ]
+    }
+  ]
+}

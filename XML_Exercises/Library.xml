@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+  <libro genero="Ciencia Ficción">
+    <titulo>La Fundación</titulo>
+    <autor>Isaac Asimov</autor>
+    <precio>25.99</precio>
+    <disponible>si</disponible>
+  </libro>
+  <libro genero="Fantasía">
+    <titulo>Juego de Tronos</titulo>
+    <autor>George R.R. Martin</autor>
+    <precio>29.99</precio>
+    <disponible>no</disponible>
+  </libro>
+  <libro genero="Aventura">
+    <titulo>La isla del tesoro</titulo>
+    <autor>Robert Louis Stevenson</autor>
+    <precio>18.99</precio>
+    <disponible>si</disponible>
+  </libro>
+</libreria>

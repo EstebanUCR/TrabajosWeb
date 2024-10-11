@@ -1,0 +1,22 @@
+<inventario>
+  <productos>
+    <producto codigo="001" categoria="Electrónicos">
+      <nombre>Televisor</nombre>
+      <precio>599.99</precio>
+      <fecha_ingreso>2023-07-15</fecha_ingreso>
+      <stock>10</stock>
+    </producto>
+    <producto codigo="002" categoria="Ropa">
+      <nombre>Camiseta</nombre>
+      <precio>29.99</precio>
+      <fecha_ingreso>2023-07-16</fecha_ingreso>
+      <stock>50</stock>
+    </producto>
+    <producto codigo="003" categoria="Hogar">
+      <nombre>Lámpara</nombre>
+      <precio>39.99</precio>
+      <fecha_ingreso>2023-07-17</fecha_ingreso>
+      <stock>20</stock>
+    </producto>
+  </productos>
+</inventario>

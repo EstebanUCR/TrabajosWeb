@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+  <libro titulo="Cien años de soledad" autor="Gabriel García Márquez" año="1967" />
+  <libro titulo="1984" autor="George Orwell" año="1949" />
+  <libro titulo="El gran Gatsby" autor="F. Scott Fitzgerald" año="1925" />
+</libros>

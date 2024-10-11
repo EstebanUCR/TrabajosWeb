@@ -1,0 +1,31 @@
+{
+    "employees": [
+      {
+        "id": "Employee 1",
+        "name": "Juan Pérez",
+        "age": 35,
+        "position": "Senior Developer",
+        "department": "Technology",
+        "salary": 75000,
+        "location": "Madrid, Spain"
+      },
+      {
+        "id": "Employee 2",
+        "name": "María Rodríguez",
+        "age": 28,
+        "position": "Graphic Designer",
+        "department": "Design",
+        "salary": 60000,
+        "location": "Paris, France"
+      },
+      {
+        "id": "Employee 3",
+        "name": "Carlos Gómez",
+        "age": 40,
+        "position": "Project Manager",
+        "department": "Project Management",
+        "salary": 90000,
+        "location": "Berlin, Germany"
+      }
+    ]
+  }
